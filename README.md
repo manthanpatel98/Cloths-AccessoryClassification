@@ -23,7 +23,7 @@ This project is built for classifying total 10 different type of cloths and acce
 
 * In **[ILSVRC'14](http://www.image-net.org/challenges/LSVRC/#:~:text=The%20ImageNet%20Large%20Scale%20Visual,image%20classification%20at%20large%20scale.&text=Another%20motivation%20is%20to%20measure,indexing%20for%20retrieval%20and%20annotation.)**, VGG was **2nd in Image Classification** and **1st in Localization**.
 
-* The original purpose of VGG's research on the depth of convolutional networks is to understand how the depth of convolutional networks affects the accuracy and accuracy of large-scale image classification and recognition.
+* The original purpose of VGG's research on the depth of convolutional networks is to understand how the depth of convolutional networks affects the accuracy and large-scale image classification and recognition.
 
 <img src="https://github.com/manthanpatel98/Cloths-AccessoryClassification/blob/main/Readme_Images/VGG-models.png" height=600>
 
